@@ -45,9 +45,8 @@ Through this project, I gained hands-on experience in analyzing risks, applying 
 Every screenshot should include a short explanation.  
 
 **Ref 1: Audit Scope Diagram**  
-📄 [Full ToyNest LTD Security Audit Report (PDF)](./ToyNest%20LTD_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf)
-
-*Diagram showing the scope of systems and processes included in the audit for ToyNest LTD.*  
+You can view the complete audit report for ToyNest LTD here:  
+📄 [ToyNest LTD Security Audit Report (PDF)](./ToyNest_Audit_Report.pdf)
 
 **Ref 2: Sample Risk Table**  
 ![Risk Table](imgsrc)  
