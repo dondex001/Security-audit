@@ -48,9 +48,10 @@ Every screenshot should include a short explanation.
 You can view the complete audit report for ToyNest LTD here:  
 📄 [ToyNest LTD Security Audit Report (PDF)](./ToyNest_Audit_Report.pdf)
 
-**Ref 2: Sample Risk Table**  
-![Risk Table](imgsrc)  
-*An example of categorized risks with severity levels for ToyNest LTD.*  
+**Ref 2: Sample Risk Table**  ## Controls and Compliance Checklist
+You can view the complete checklist here:  
+📄 [Controls and Compliance Checklist (PDF)](./Controls_and_compliance_checklist.pdf)
+
 
 ---
 
