@@ -46,7 +46,7 @@ Every screenshot should include a short explanation.
 
 **Ref 1: Audit Scope Diagram**  
 You can view the complete Scope, Goals, and Risk Assessment report for ToyNest LTD here:  
-📄 [ToyNest LTD Scope, Goals, and Risk Assessment Report (MD)](./ToyNest_LTD_Scope_Goals_Risk_Assessment_Report.md)
+📄 [ToyNest LTD Scope, Goals, and Risk Assessment Report (MD)](./ToyNest_LTD_Scope_Goals_Risk_Assessment_Report.md.md)
 
 **Ref 2: Sample Risk Table**  ## Controls and Compliance Checklist
 You can view the complete checklist here:  
