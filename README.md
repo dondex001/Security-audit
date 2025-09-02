@@ -49,8 +49,8 @@ You can view the complete Scope, Goals, and Risk Assessment report for ToyNest L
 📄 [ToyNest LTD Scope, Goals, and Risk Assessment Report (MD)](./ToyNest_LTD_Scope_Goals_Risk_Assessment_Report.md.md)
 
 **Ref 2: Sample Risk Table**  ## Controls and Compliance Checklist
-You can view the complete checklist here:  
-📄 [Controls and Compliance Checklist (PDF)](./Controls_and_compliance_checklist.pdf)
+You can view the Controls and Compliance Checklist here:  
+📄 [Controls and Compliance Checklist (MD)](./Controls_and_compliance_checklist.md)
 
 
 ---
