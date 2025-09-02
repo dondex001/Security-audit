@@ -1,13 +1,13 @@
 # Security Audit Project – ToyNest LTD
 
-## Objective
+## 🎯 Objective
 This project involved performing a **security audit** on a simulated environment representing **ToyNest LTD**, a mid-sized toy company. The goal was to evaluate the organization's security posture, identify potential vulnerabilities, and recommend improvements to strengthen defenses against cyber threats.
 
 Through this project, I gained hands-on experience in analyzing risks, applying security frameworks, and documenting findings in a professional audit report.
 
 ---
 
-## Skills Learned
+## 🛡️ Skills Learned
 - Conducting structured security audits  
 - Identifying risks, threats, and vulnerabilities in IT systems  
 - Applying cybersecurity frameworks to assess controls  
@@ -16,14 +16,14 @@ Through this project, I gained hands-on experience in analyzing risks, applying 
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 - Security frameworks (e.g., NIST Cybersecurity Framework, CIS Controls)  
 - Documentation tools for creating audit reports  
 - Risk analysis and threat assessment techniques  
 
 ---
 
-## Project Steps
+## 🚀 Project Steps
 1. **Scoping the Audit**  
    - Defined the systems, processes, and boundaries of the audit for ToyNest LTD  
 
@@ -41,8 +41,8 @@ Through this project, I gained hands-on experience in analyzing risks, applying 
 
 ---
 
-## Screenshots
-Every screenshot should include a short explanation.  
+## 📂 Project Files
+Key project files and reports supporting the security audit.
 
 **Ref 1: Audit Scope Diagram**  
 You can view the complete Scope, Goals, and Risk Assessment report for ToyNest LTD here:  
@@ -55,7 +55,7 @@ You can view the Controls and Compliance Checklist here:
 
 ---
 
-## Notes
+## 📝 Notes
 This project was conducted on a **simulated environment** representing ToyNest LTD for educational purposes. All company data, systems, and scenarios are fictional but modeled to reflect realistic business and IT operations.
 
 ---
